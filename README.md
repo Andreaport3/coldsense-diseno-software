@@ -19,7 +19,7 @@ Analizar los problemas de un diseño inicial concentrado en un solo componente y
 - `docs/diseno_mejorado.md`: descripción de la arquitectura mejorada.
 - `docs/diagrama_mejorado.md`: diagrama de la arquitectura propuesta.
 - `docs/aportaciones.md`: registro de las contribuciones individuales del equipo.
-
+- `docs/analisis_modularidad.md`: análisis de modularidad, problemas identificados y beneficios de la separación de responsabilidades.
 ## 4. Arquitectura propuesta
 
 El diseño mejorado separa la recepción de datos, la validación de lecturas, la gestión de umbrales, la evaluación de alertas, las notificaciones, el almacenamiento y la generación de reportes.
